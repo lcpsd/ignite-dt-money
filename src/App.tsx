@@ -1,11 +1,11 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { GlobalStyle } from './styles/global';
 
 function App() {
   return (
     <div>
-      
+      haha
+      <GlobalStyle/>
     </div>
   );
 }
